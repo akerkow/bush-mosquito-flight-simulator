@@ -5,8 +5,7 @@ The aim of the work presented here was to provide an estimate of the local sprea
 
 The model was designed by me and Dr. Ralf Wieland at the Leibniz Centre for Agricultural Landscape Research (ZALF) within the framework of the the CuliFo-project. The project was supported by the Federal Ministry of Food and Agriculture (BMEL, grant no. 2819105315).
 
-A manuscript for the publication of the model is in preparation. 
-# The model code is subject to the "Creative Commons Attribution - Non Commercial 4.0" licence agreement.
+A manuscript for the publication of the model is in preparation. The model code is subject to the "Creative Commons Attribution - Non Commercial 4.0" licence agreement.
 
 To run the model, "main_simu.py" must be executed. The script uses the SEIR compartment model ("time_simu.py") and the flight simulator ("space_simu.py"). 
 
