@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-The movements of the non-infectious super-mosquitoes (SM+EM) are shown here 
-in a video. One super-mosquito in the view bundles 10, 100 or 1000 mosquito
-individuals as specified in "Model_Szenario.py". 
+The movements of all (the non-infectious and infectious) super-mosquitoes 
+(SM+EM+IM) are shown here in a video. One super-mosquito in the view bundles 
+10, 100 or 1000 mosquito individuals as specified in "Model_Szenario.py". 
 """
 
 #==============================================================================
