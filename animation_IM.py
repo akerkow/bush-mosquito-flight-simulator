@@ -3,7 +3,7 @@
 
 """
 The movements of the infectious "super mosquitoes" (IM) are shown here in a 
-video. One super mosquito in the view bundles 1000 mosquito individuals.
+video. 
 """
 
 #==============================================================================
